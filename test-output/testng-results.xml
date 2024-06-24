@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-23T19:49:14 IST" name="Default suite" finished-at="2024-06-23T19:49:19 IST" duration-ms="5676">
+    <groups>
+    </groups>
+    <test started-at="2024-06-23T19:49:14 IST" name="Default test" finished-at="2024-06-23T19:49:19 IST" duration-ms="5676">
+      <class name="basic.classTestNG">
+        <test-method is-config="true" signature="setup()[pri:0, instance:basic.classTestNG@1573f9fc]" started-at="2024-06-23T19:49:12 IST" name="setup" finished-at="2024-06-23T19:49:14 IST" duration-ms="2221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:basic.classTestNG@1573f9fc]" started-at="2024-06-23T19:49:14 IST" name="openUrl" finished-at="2024-06-23T19:49:17 IST" duration-ms="3120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="Frame1()[pri:0, instance:basic.classTestNG@1573f9fc]" started-at="2024-06-23T19:49:17 IST" name="Frame1" finished-at="2024-06-23T19:49:17 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Frame1 -->
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:basic.classTestNG@1573f9fc]" started-at="2024-06-23T19:49:17 IST" name="openUrl" finished-at="2024-06-23T19:49:19 IST" duration-ms="1624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="Frame2()[pri:0, instance:basic.classTestNG@1573f9fc]" started-at="2024-06-23T19:49:19 IST" name="Frame2" finished-at="2024-06-23T19:49:19 IST" duration-ms="595" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Frame2 -->
+      </class> <!-- basic.classTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
